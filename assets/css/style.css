@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    min-height: 100%;
+    display: inline-block;
+}
+
+header {
+    color: #333;
+    background: #ffffff;
+    float: left;
+    width: 100%;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 40px;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 28px;
+    color: #ffffff;
+    background: #4aaaa5;
+    width: 280px;
+    text-align: center;
+    float: left;
+    height: 100%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.navbar-brand {
+      background: #ffffff;
+       background-color: #ffffff;
+}
+
+
+h2 {
+   font-size: 24px;
+    float: left;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin: 15px 0px 10px 10px;
+    font-weight: bold;
+}
+
+#biobreak {
+    margin: 0px 0px 25px 0px;
+    height: 2px;
+    background: #dddddd;
+    color: #ccc;
+    border: 0;
+}
+
+#bio-image {
+    margin: 20px 20px 0px 20px;
+}
+
+p {
+    margin: 20px 10px 10px 20px;
+}
+
+#main-bio {
+     float: left;
+    border: 0.5px solid #dddddd;
+    background: #ffffff;
+    width: 650px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 28px;
+}
+
+.message{
+    padding: 20px;
+}
+
+.pdescription {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 22px;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+#img1 {
+    background-image: url(http://lorempixel.com/265/200/abstract);
+    background-position: center;
+    width: 265px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+
+#img2 {
+    background-image: url(http://lorempixel.com/265/200/cats);
+    background-position: center;
+    width: 265px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+
+#img3 {
+    background-image: url(http://lorempixel.com/265/200/sports);
+    background-position: center;
+    width: 265px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+
+#img4 {
+    background-image: url(http://lorempixel.com/265/200/food);
+    background-position: center;
+    width: 265px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+
+#name {
+    width: 100%;
+    padding: 5px;
+}
+
+#email {
+    width: 100%;
+    padding: 5px;
+}
+
+#comment {
+    height: 250px;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+
+#sub {
+    width: 100px;
+    height: 36px;
+    margin: 10px 0px 0px 0px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+}
+
+
+h3 {
+    font-size: 21px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 3px;
+    margin: 20px 0px 0px 0px;
+    font-weight: bold;
+}
+
+#contact-info {
+    padding: 5px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    float: left;
+    border: 0.5px solid #dddddd;
+    background: #ffffff;
+    margin: 0px 0px 40px 0px;
+    width: 260px;
+    height: 180px;
+}
+
+#connectbreak {
+    width: 90%;
+    margin: 15px 10px 15px 10px;
+    height: 1px;
+    background: #dddddd;
+    color: #ccc;
+    border: 0;
+    display: inline-block;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+
+.fixed-bottom{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 9px;
+    color: #ccc;
+    background: #666;
+    text-align: center;
+    padding: 40px;
+  border-top: 7px solid #4aaaa5;
+}
+
+
+
+body {
+    background-image: url("../images/concrete_seamless.png");
+}
+
